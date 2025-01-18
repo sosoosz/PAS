@@ -11,8 +11,7 @@
 <div align="center">
 
 <small>
-The CookNow application helps users find recipes quickly and easily, allowing them to search for specific ingredients  
-or keywords related to the recipes they wish to prepare.
+The CookNow app helps users write recipes quickly and easily, allowing them to view all the recipes that have already been added.
 </small>
 </div>
 <br>
@@ -26,7 +25,7 @@ or keywords related to the recipes they wish to prepare.
 
 <div>
 <small>
-The project consists of a mobile application and a website aimed at discovering and organizing recipes in a practical and efficient way. Aimed at people who want to prepare meals quickly and simply, the project focuses on a mobile application based on an external API, as well as the API itself. The application offers features such as searching for recipes by ingredients or keywords, as well as the ability to save favorite recipes for easy future access, making the cooking experience more accessible and productive.
+The project consists of a mobile application and a website aimed at organizing recipes in a practical and efficient way. Aimed at people who want to prepare meals quickly and simply, the project focuses on a mobile application based on the API itself. The app offers features such as recipe search and also the ability to save favorite recipes for easy future access, making the cooking experience more accessible and productive.
 </small>
   
 </div>
