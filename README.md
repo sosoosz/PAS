@@ -101,13 +101,14 @@ This streamlined design focuses on simplicity while supporting the core function
 
 ### Built with
 - Android Studio;
-- Room Database
-- Laravel
-- HTML
-- CSS
-- PHP
-- JAVA
-- Recycler View
+- VSCode
+- Room Databas;
+- Laravel;
+- HTML;
+- CSS;
+- PHP;
+- JAVA;
+- Recycler View.
 
 
 ## Authors
