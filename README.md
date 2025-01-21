@@ -67,3 +67,7 @@ Here is our website homepage where we present our thoughts on the project, app f
 - [x] Code to enable an admin user to moderate comments;
 
 - [x] Add a favorites table for use in the application;
+
+### Database Structure
+## Room Database
+In the next image 
