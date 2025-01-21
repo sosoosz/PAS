@@ -35,6 +35,8 @@ The project consists of a mobile application and a website aimed at save recipes
 <div>
 <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/site.png" alt="Site"/>
 
+<img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/site%20comentarios.png" alt="Comentarios"/>
+
 </div>
 Here is our website homepage where we present our thoughts on the project, app features and more.
 
