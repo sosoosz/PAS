@@ -25,7 +25,7 @@ The CookNow app helps users write recipes quickly and easily, allowing them to v
 
 <div>
 <small>
-The project consists of a mobile application and a website aimed at organizing recipes in a practical and efficient way. Aimed at people who want to prepare meals quickly and simply, the project focuses on a mobile application based on the API itself. The app offers features such as recipe search and also the ability to save favorite recipes for easy future access, making the cooking experience more accessible and productive.
+The project consists of a mobile application and a website aimed at save recipes in a practical and efficient way. Aimed at people who want to prepare meals quickly and simply. The app offers features such as recipe search and also the ability to pin recipes for easy future access, making the cooking experience more accessible and productive.
 </small>
   
 </div>
@@ -45,7 +45,7 @@ Here is our website homepage where we present our thoughts on the project, app f
 - Responsive website;
 - API-based mobile app built with Java in Android Studio;
 
-### Roadmap
+### Roadmap API
 
 - [x] Create the API using Laravel  
   `composer create-project laravel/laravel Cooknow`
@@ -68,6 +68,22 @@ Here is our website homepage where we present our thoughts on the project, app f
 
 - [x] Add a favorites table for use in the application;
 
+### Roadmap App
+
+- [x] Room Database classes
+  - [x] ´MainDAO´ - 
+  - [x] ´Recipe´
+  - [x] ´RecipeClickListener´
+  - [x] ´RecipeListAdapter´
+  - [x] ´RecipeViewHolder´
+  - [x] ´RoomDB´
+- [x] ´MainActivity´
+- [x] ´RecipeTakeActivity´
+- [x] layout
+  - [x] ´activity_main´
+  - [x] ´activity_recipe_take´
+  - [x] ´recipe_list´
+
 ### Database Structure
 ## API Database
 In the next image is the database of the api
@@ -76,7 +92,7 @@ In the next image is the database of the api
 </div>
 
 ## App Database (Room Database)
-In the application using Room DataBase, the database consists of a single table named recipes, which includes the following fields:
+In the application, using Room DataBase, the database consists of a single table named recipes, which includes the following fields:
 - `Id (INTEGER)`: A unique identifier for each recipe; 
 - `Name (TEXT)`: The name of the recipe;
 - `Ingredients (TEXT)`: A list of ingredients used in the recipe;
