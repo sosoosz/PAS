@@ -72,5 +72,5 @@ Here is our website homepage where we present our thoughts on the project, app f
 ## Room Database
 In the next image is the external database 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/bd.png" alt="Cooknow" width="100"/>
+  <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/bd.png" alt="Cooknow" width="500"/>
 </div>
