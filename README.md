@@ -15,7 +15,7 @@ The CookNow app helps users write recipes quickly and easily, allowing them to v
 </small>
 </div>
 <br>
-  ##
+  <p align="center">──────────────────────────────────────────────────────────────</p>
                     
 <br>
 <br>
@@ -82,3 +82,13 @@ In the application using Room DataBase, the database consists of a single table 
 - `Ingredients (TEXT)`: A list of ingredients used in the recipe;
 - `Pinned (BOOLEAN)`: Indicates whether the recipe is pinned or not;
 This streamlined design focuses on simplicity while supporting the core functionalities of the app.
+
+### Built with
+- Android Studio;
+- Room Database
+- Laravel
+- HTML
+- CSS
+- PHP
+- JAVA
+- Recycler View
