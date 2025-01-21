@@ -69,13 +69,14 @@ Here is our website homepage where we present our thoughts on the project, app f
 - [x] Add a favorites table for use in the application;
 
 ### Database Structure
-## Room Database
+## API Database
 In the next image is the database of the api
 <div align="center">
   <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/bd.png" alt="Cooknow" width="600"/>
 </div>
 
-In the application, the database consists of a single table named recipes, which includes the following fields:
+## App Database (Room Database)
+In the application using Room DataBase, the database consists of a single table named recipes, which includes the following fields:
 - `Id (INTEGER)`: A unique identifier for each recipe; 
 - `Name (TEXT)`: The name of the recipe;
 - `Ingredients (TEXT)`: A list of ingredients used in the recipe;
