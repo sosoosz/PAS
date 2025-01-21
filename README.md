@@ -76,8 +76,8 @@ In the next image is the database of the api
 </div>
 
 In the application, the database consists of a single table named recipes, which includes the following fields:
-- Id (INTEGER): A unique identifier for each recipe; 
-- Name (TEXT): The name of the recipe;
-- Ingredients (TEXT): A list of ingredients used in the recipe;
-- Pinned (BOOLEAN): Indicates whether the recipe is pinned or not;
+- 'Id (INTEGER)': A unique identifier for each recipe; 
+- 'Name (TEXT)': The name of the recipe;
+- 'Ingredients (TEXT)': A list of ingredients used in the recipe;
+- 'Pinned (BOOLEAN)': Indicates whether the recipe is pinned or not;
 This streamlined design focuses on simplicity while supporting the core functionalities of the app.
