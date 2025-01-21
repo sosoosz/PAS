@@ -15,7 +15,7 @@ The CookNow app helps users write recipes quickly and easily, allowing them to v
 </small>
 </div>
 <br>
-  <p align="center">──────────────────────────────────────────────────────────────</p>
+  ##
                     
 <br>
 <br>
