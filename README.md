@@ -86,7 +86,7 @@ Here is our website homepage where we present our thoughts on the project, app f
 
 ### Database Structure
 ## API Database
-In the next image is the database of the api
+In the next image is the database of the api:
 <div align="center">
   <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/bd.png" alt="Cooknow" width="600"/>
 </div>
@@ -108,3 +108,8 @@ This streamlined design focuses on simplicity while supporting the core function
 - PHP
 - JAVA
 - Recycler View
+
+
+## Authors
+@NazareCavaco
+@sosoosz
