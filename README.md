@@ -111,5 +111,5 @@ This streamlined design focuses on simplicity while supporting the core function
 
 
 ## Authors
-@NazareCavaco
-@sosoosz
+- @NazareCavaco
+- @sosoosz
