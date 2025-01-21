@@ -70,4 +70,7 @@ Here is our website homepage where we present our thoughts on the project, app f
 
 ### Database Structure
 ## Room Database
-In the next image 
+In the next image is the external database 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/cooknow.png" alt="Cooknow" width="100"/>
+</div>
