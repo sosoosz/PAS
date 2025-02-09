@@ -35,7 +35,7 @@ The project consists of a mobile application and a website aimed at save recipes
 <div>
 <img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/site.png" alt="Site"/>
 
-<img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/site%20comentarios.png" alt="Comentarios"/>
+<img src="https://raw.githubusercontent.com/sosoosz/PAS/refs/heads/main/imagens/recipe.png" alt="Recipe"/>
 
 </div>
 Here is our website homepage where we present our thoughts on the project, app features and more.
@@ -107,12 +107,15 @@ In the application, using Room DataBase, the database consists of a single table
 - `Id (INTEGER)`: A unique identifier for each recipe; 
 - `Username (TEXT)`: The username;
 - `Password (TEXT)`;
+
+
 This streamlined design focuses on simplicity while supporting the core functionalities of the app.
 
 ### Built with
 - Android Studio;
-- VSCode
-- Room Databas;
+- VSCode;
+- JSON
+- Room Database;
 - Laravel;
 - HTML;
 - CSS;
