@@ -43,14 +43,14 @@ Here is our website homepage where we present our thoughts on the project, app f
 ### Functionalities
 
 - Commercial website promoting the application;
-- Users can give their opinion about the application;
+- Administrator access to added recipes, where you can manage them.
 - Responsive website;
-- API-based mobile app built with Java in Android Studio;
+- API and mobile app built with Java in Android Studio;
 
 ### Roadmap API
 
-- [x] Create the API using Laravel  
-  `composer create-project laravel/laravel Cooknow`
+- [x] Create the API 
+  `php artisan install:api`, `php artisan make:controller Api/RecipeController --model=Recipe`
 
 - [x] Code the structure of the initial menu to match the application
 
@@ -60,15 +60,10 @@ Here is our website homepage where we present our thoughts on the project, app f
 
 - [x] Style the navigation bar;
 
-- [x] Make the comments section functional;
-
-- [x] Style the comments section;
-
 - [x] Code the user profile structure to allow data modification;
 
-- [x] Code to enable an admin user to moderate comments;
+- [x] The administrator can create, edit and delete recipes, which is shown through a table.
 
-- [x] Add a favorites table for use in the application;
 
 ### Roadmap App
 
@@ -95,7 +90,7 @@ Here is our website homepage where we present our thoughts on the project, app f
   - [x] `activity_profile` - This XML layout file is for a simple screen that displays a username and a logout button.
  
      
-  - [ ] Room Database classes
+- [x] Room Database classes
   - [x]  `UserDao` - The Data Access Object (DAO) interface that defines the database functions related to users. It contains methods like insertUser() to insert a new user and login() to query the database for a user based on their username and password.
   - [x] `User` - The model class that represents the structure of the "users" table in the database. It contains fields like id, username, and password to store user data. It also provides getter and setter methods to access and modify these fields.
   - [x] `AppDatabase` - The database class that sets up the Room database. It holds the database instance and provides access to the DAOs, like UserDao. It uses the Room.databaseBuilder() to create the database and ensures that operations are performed on a background thread using the ExecutorService.
