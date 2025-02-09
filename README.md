@@ -25,7 +25,7 @@ The CookNow app helps users write recipes quickly and easily, allowing them to v
 
 <div>
 <small>
-The project consists of a mobile application and a website aimed at save recipes in a practical and efficient way. Aimed at people who want to prepare meals quickly and simply. The app offers features such as recipe search and also the ability to pin recipes for easy future access, making the cooking experience more accessible and productive.
+The project consists of a mobile application and a website aimed at save recipes in a practical and efficient way, aimed at people who want to prepare meals quickly and simply. 
 </small>
   
 </div>
